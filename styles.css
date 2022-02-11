@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(0, 0, 0);
+ }
+ ol {
+    color: green;
+    
+    text-align: center;
+ }
+ :link {
+    color: aquamarine;
+ }
+ p {
+    font-family: "arial";
+    font-size: 20px;
+    color: green;
+    
+ }
+
+ h1 {
+    color:green
+   
+ 
+  
+
+ }
+ h1 {
+ 
+   border-style: solid;
+  border-color: green;
+
+}
+h1{
+   font: italic small-caps bold 16px/2 cursive;
+}
+h2{
+   font: italic small-caps bold 16px/2 cursive;
+}
+
+ h2 {
+   color:green
+}
+
+h2 {
+ 
+   border-style: solid;
+  border-color: green;
+
+}
+
+ h3 {
+   color:green
+
+}
+
+.center  {
+   padding: 70px 0;
+   
+   text-align: center;
+ }
+  p {
+   font: small-caps bold 24px/1 sans-serif;
+  }
+
