@@ -1,11 +1,12 @@
 body {
     background-color: rgb(0, 0, 0);
- }
+}
  ol {
     color: green;
     
     text-align: center;
  }
+
  :link {
     color: aquamarine;
  }
@@ -60,4 +61,5 @@ h2 {
   p {
    font: small-caps bold 24px/1 sans-serif;
   }
+
 
