@@ -62,4 +62,8 @@ h2 {
    font: small-caps bold 24px/1 sans-serif;
   }
 
+  img {
+   width: 700px;
+   border: 1px solid rgb(74, 189, 21);
+ }
 
